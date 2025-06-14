@@ -33,5 +33,12 @@
     "priority": "high",
     "completed": true,
     "created_at": "2025-06-11T23:35:03.075425"
+  },
+  {
+    "id": 6,
+    "title": "Buy grocery",
+    "priority": "medium",
+    "completed": false,
+    "created_at": "2025-06-14T12:17:26.891429"
   }
 ]
